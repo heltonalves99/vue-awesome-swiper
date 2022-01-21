@@ -13,6 +13,7 @@
     "declaration": true,
     "declarationDir": "dist",
     "sourceMap": true,
+    "noImplicitAny": true,
     "baseUrl": ".",
     "types": [
       "vue",
